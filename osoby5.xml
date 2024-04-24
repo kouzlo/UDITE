@@ -11,7 +11,7 @@
         <pohlavi>muž</pohlavi>
         <kredity>12</kredity>
         <predmety>
-            <predmet>
+            <predmet> 
                 <zkratka>UDITE</zkratka>
                 <nazev>Úvod do informačních systémů</nazev>
                 <kredity>3</kredity>
